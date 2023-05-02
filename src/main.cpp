@@ -7,9 +7,9 @@ int main() {
     char str[100];
     std::cout << "Введите текст: ";
     std::cin.getline(str, 100);
-    std::cout << "Lab1.1: " << faStr1(str) << std::endl;
-    std::cout << "Lab1.2: " << faStr2(str) << std::endl;
-    std::cout << "Lab1.3: " << faStr3(str) << std::endl;
+    std::cout << "Лаб/раб-1.1: " << faStr1(str) << std::endl;
+    std::cout << "Лаб/раб-1.2: " << faStr2(str) << std::endl;
+    std::cout << "Лаб/раб-1.3: " << faStr3(str) << std::endl;
     
     return 0;
 }
