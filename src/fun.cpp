@@ -61,8 +61,7 @@ unsigned int faStr3(const char *str) {
             sum++;
             has = true;
         }
-        if (str[i] == ' ')
-        {
+        if (str[i] == ' ') {
             if (has != false) {
                 kol++;
             }
