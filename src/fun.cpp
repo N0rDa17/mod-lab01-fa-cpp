@@ -5,7 +5,6 @@
 #include "fun.h"
 
 unsigned int faStr1(const char *str) {
-    return 0;
     int kol = 0;
     bool has_digit = false;
     bool has_empt = false; //emptiness
@@ -28,7 +27,6 @@ unsigned int faStr1(const char *str) {
 }
 
 unsigned int faStr2(const char *str) {
-    return 0;
     int kol = 0;
     bool has_Аcapital = false;
     bool has_empt = true; //emptiness
@@ -52,7 +50,6 @@ unsigned int faStr2(const char *str) {
 }
 
 unsigned int faStr3(const char *str) {
-    return 0;
     int kol = 0;
     int sum = 0;
     bool has = false;
