@@ -10,6 +10,5 @@ int main() {
     std::cout << "Лаб/раб-1.1: " << faStr1(str) << std::endl;
     std::cout << "Лаб/раб-1.2: " << faStr2(str) << std::endl;
     std::cout << "Лаб/раб-1.3: " << faStr3(str) << std::endl;
-    
     return 0;
 }
